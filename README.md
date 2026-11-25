@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens de Programação
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,c" />
+</p>
+
+### Bases de Dados e Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
