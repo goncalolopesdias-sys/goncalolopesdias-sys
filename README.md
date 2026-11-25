@@ -56,9 +56,9 @@ Estou constantemente a aprender, desenvolver projetos e explorar novas tecnologi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=goncalolopesdias-sys&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalolopesdias-sys&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
