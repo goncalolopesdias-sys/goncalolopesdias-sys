@@ -36,11 +36,9 @@ Aqui partilho alguns dos projetos que vou desenvolvendo ao longo do meu percurso
 **Bases de dados e ferramentas**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
- <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
 </p>
-</p>
+
 
 ---
 
